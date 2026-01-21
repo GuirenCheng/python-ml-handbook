@@ -1,0 +1,20 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (如果数据文件很大)
+*.csv
+*.json
+*.pkl
+*.h5

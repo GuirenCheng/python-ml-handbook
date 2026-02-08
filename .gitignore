@@ -15,7 +15,18 @@ Thumbs.db
 
 # Data files
 *.data
+*.txt
 *.csv
 *.json
 *.pkl
 *.h5
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

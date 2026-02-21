@@ -28,5 +28,13 @@ Thumbs.db
 *.pdf
 *.svg
 
-# Jupyter checkpoints
-.ipynb_checkpoints/
+# Model files
+*.h5
+*.keras
+*.hdf5
+*.pb
+*.onnx
+
+# Checkpoints
+checkpoint/
+*.ckpt

@@ -21,7 +21,7 @@
 - ✅ 第18章：朴素贝叶斯 
 - ✅ 第19章：聚类
 - ✅ 第20章：神经网络  
-- 🔄 第21章：保存和加载训练后的模型（进行中 - 最后一章！）
+- ✅ 第21章：保存和加载训练后的模型
 ## 项目结构
 
 notebooks/          # Jupyter笔记本（按章节）
@@ -29,4 +29,4 @@ requirements.txt    # Python依赖
 .gitignore          # Git忽略规则
 
 ## 运行环境
-Python 3.11+, numpy, pandas, scikit-learn, jupyter
+Python 3.11+, numpy, pandas, scikit-learn, jupyter, tensorflow,keras

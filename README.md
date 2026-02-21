@@ -1,5 +1,12 @@
 # Python机器学习手册学习笔记
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-yellow?logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-20%2F21-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## 学习进度
 - ✅ 第1章：向量、矩阵和数组
 - ✅ 第2章：加载数据

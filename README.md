@@ -31,9 +31,10 @@
 - ✅ 第21章：保存和加载训练后的模型
 ## 项目结构
 
-notebooks/          # Jupyter笔记本（按章节）
-requirements.txt    # Python依赖
-.gitignore          # Git忽略规则
+- `notebooks/` - 20个章节的Jupyter笔记本
+  - Chapter01-21：每章一个Notebook
+- `requirements.txt` - Python依赖（numpy, pandas, sklearn, tensorflow）
+- `.gitignore` - Git忽略规则（数据集、模型文件不上传）
 
 ## 运行环境
 Python 3.11+, numpy, pandas, scikit-learn, jupyter, tensorflow,keras
